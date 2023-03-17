@@ -4,6 +4,6 @@ The practical game labs, part of the Klagenfurt Critical Game Lab, are a student
 [More information about the KCGL](https://kcgl.aau.at/game-labs/ )
 #### Summer semester 2023
 ### Lab 1
-- [Godot](https://github.com/KCGL-Practical-Game-Lab-SS23/Lab1-Godot)
+- [Godot]()
 - [Unity](https://github.com/KCGL-Practical-Game-Lab-SS23/Lab1-Unity)
 
